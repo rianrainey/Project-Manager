@@ -1,0 +1,8 @@
+git config --global user.name "Rian Rainey"
+git config --global user.email git@rianrainey.com
+
+# Set git editor
+git config --global core.editor "vim -f"
+
+# Aliases
+git config --global alias.co checkout
